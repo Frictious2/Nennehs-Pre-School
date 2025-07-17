@@ -1,2 +1,2 @@
-# cla
-Canaan Land Academy Website
+# nps
+Nenneh's Preparatory School's Website
