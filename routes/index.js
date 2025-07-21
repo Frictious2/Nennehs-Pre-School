@@ -24,7 +24,4 @@ route.get("/facility", indexController.facility);
 // TEAM PAGE
 route.get("/team", indexController.team);
 
-// TESTIMONIAL PAGE
-route.get("/testimonial", indexController.testimonial);
-
 module.exports = route;

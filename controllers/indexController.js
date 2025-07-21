@@ -40,13 +40,6 @@ exports.team = (req, res) => {
     });
 }
 
-// TESTIMONIALS
-exports.testimonial = (req, res) => {
-    res.render("testimonial", {
-        title : "Nenneh's Preparatory School | Testimonial"
-    });
-}
-
 // CONTACT PAGE
 exports.contact = (req, res) => {
     res.render("contact", {
